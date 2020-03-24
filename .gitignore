@@ -1,0 +1,12 @@
+.classpath
+.project
+db.properties
+out/
+books.log
+book_report.txt
+books500.csv
+customers.dat
+customers_report.txt
+purchases.csv
+purchases_report.txt
+x.csv
